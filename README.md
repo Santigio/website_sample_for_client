@@ -1,2 +1,2 @@
-# website_sample_for_client
+# website sample
 A website demo for a client
